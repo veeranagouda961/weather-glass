@@ -2,7 +2,7 @@
 
 A premium glassmorphic weather application built with **React + Vite**, powered by the **Weatherstack API**.
 
-Live Demo: https://your-vercel-link.vercel.app
+Live Demo: [https://your-vercel-link.vercel.app](https://weather-glass-nine.vercel.app/)
 
 ---
 
